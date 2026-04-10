@@ -137,8 +137,8 @@ This project demonstrates how machine learning can be applied to healthcare data
 ---
 
 ## 👤 Author
-**Sheshu Vardhan**  
-Aspiring Data Analyst | Machine Learning | Python  
+**Seshu Vardhan Reddy Ravala**  
+Aspiring Data Analyst | Machine Learning | Python | sql | Power Bi | 
 
 ---
 
