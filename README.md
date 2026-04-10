@@ -7,6 +7,9 @@ The dataset contains **212,000+ patient records**, making it a large-scale, real
 
 ---
 
+<img src = "https://i.postimg.cc/BvrNCs9L/Chat-GPT-Image-Apr-10-2026-08-50-50-PM.png">
+
+---
 ## 🎯 Objectives
 - Analyze thyroid patient dataset  
 - Perform data cleaning and preprocessing  
